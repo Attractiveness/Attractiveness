@@ -1,1 +1,1 @@
-[s.oliver@consultant.com]
+s.oliver@consultant.com
